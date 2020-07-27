@@ -1,1 +1,19 @@
+@echo off
 
+mkdir E:\testing\Dokumente\Nachhilfe
+mkdir E:\testing\Dokumente\Server_inf_ssl
+mkdir E:\testing\Dokumente\Schule\Design-web
+mkdir E:\testing\Dokumente\Schule\Stage
+mkdir E:\testing\Projekte
+mkdir E:\testing\Tests
+mkdir E:\testing\Musik
+mkdir E:\testing\PC-design
+mkdir E:\testing\Fonts
+mkdir E:\testing\Schach\Training
+mkdir E:\testing\Schach\Datenbanken
+mkdir E:\testing\Ressourcen
+mkdir E:\testing\Books
+mkdir E:\testing\Videos
+mkdir E:\testing\Spiele
+mkdir E:\testing\Design-helpers
+mkdir E:\testing\Programme
